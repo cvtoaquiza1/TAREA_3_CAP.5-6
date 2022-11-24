@@ -414,7 +414,9 @@ SECCIÓN 6–10 Localización de fallas
 
 4. VIDEO
 
+Link del video:
 
+https://youtu.be/u64bS-wgSmA
 
 
 5. CONCLUSIONES:
@@ -435,14 +437,6 @@ SECCIÓN 6–10 Localización de fallas
 6. BIBLIOGRAFÍA
 
 • Floyd, TL (2007). Principios de Circuitos Eléctricos. México: Pearson Educación.
-
-
-
-
-
-
-
-
 
 
 
