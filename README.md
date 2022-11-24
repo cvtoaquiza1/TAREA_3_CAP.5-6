@@ -73,20 +73,182 @@ OBEJETIVOS ESPECIFICOS:
 
 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
 
+CAPITULO 5:
+
+EJERCICIOS PARES:
+
+SECCIÓN 5–1 Resistores en serie
+
+2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
+
+![image](https://user-images.githubusercontent.com/117781491/203845814-c037bf31-a426-4182-8d00-0f7de96d707a.png)
+
+Para interconectar las puntas de los resistores en serie se debe conectar la punta del resistor 8 con la punta del resistor 7, la punta del resistor 4 con la del 5 y la punta del resistor 2 con la del 6
+
+SECCIÓN 5–2 Corriente en un circuito en serie
+
+6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+
+![image](https://user-images.githubusercontent.com/117781491/203846303-c88d8f51-cc3f-46e5-b58e-d0a27782669d.png)
+
+8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1.
+
++ ¿Qué otras corrientes de resistor se miden con esta configuración?
+
+![image](https://user-images.githubusercontent.com/117781491/203846424-09227126-7b7e-4a8f-bf39-d0a81a1e33df.png)
+
+SECCIÓN 5–3 Resistencia total en serie
+
+10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
+
+![image](https://user-images.githubusercontent.com/117781491/203846493-8a8ea231-3fdc-411c-abc6-d7b23cafeaf3.png)
+
+12. Calcule la RT en cada circuito de la figura 5-71.
+
+![image](https://user-images.githubusercontent.com/117781491/203846558-6bb0f5c3-7b6c-421c-abe8-c31ea47e207f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203846605-296ff6cc-c8f3-493c-8230-51a3909cdb51.png)
+
+14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+
+![image](https://user-images.githubusercontent.com/117781491/203846660-d9d78c7b-f4cc-4a38-ba28-fca85ffa54ab.png)
+
+*16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 k Ω, 2.2 k Ω, y 5.6 k Ω. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18k Ω. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+![image](https://user-images.githubusercontent.com/117781491/203846794-eaeecd11-2900-43ff-94e6-54abe02bd941.png)
+
+18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/117781491/203846853-580c6178-1012-4994-aaba-4a18d89ab462.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203846886-158889a0-b543-4776-bacf-0d439537bf43.png)
+
+SECCIÓN 5–4 Aplicación de la ley de Ohm
+
+20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+
+![image](https://user-images.githubusercontent.com/117781491/203846954-9589a5a9-974c-4f9e-83eb-c778643cb5f9.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203846996-a626624a-4258-4f37-9131-7486d40529b5.png)
 
 
+22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor? 
+
+![image](https://user-images.githubusercontent.com/117781491/203847051-512b5dfe-9da1-4e6d-9108-b7c7e168626a.png)
+
+24. Determine VR1, R2 y R3 en la figura 5-76.
+
+![image](https://user-images.githubusercontent.com/117781491/203847116-521799ed-6620-4fd5-a65f-502a8478e413.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203847132-66c2cd1a-dcaa-4797-9c25-e530baa08cf7.png)
+
+26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+
+![image](https://user-images.githubusercontent.com/117781491/203847201-253756d9-516c-4471-a4de-c4ecbffbb70c.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203847230-9ac064a1-6462-40b2-8132-cd3014772677.png)
+
+SECCIÓN 5–5 Fuentes de voltaje en serie
+
+28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+![image](https://user-images.githubusercontent.com/117781491/203847290-9c286f3a-76ef-48fd-a253-9afd599fac04.png)
 
 
+SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
+30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
+![image](https://user-images.githubusercontent.com/117781491/203847329-f48b1636-fc42-4a62-b9eb-744ec86ec32d.png)
 
+32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas. 
 
+![image](https://user-images.githubusercontent.com/117781491/203847498-bcf4ce00-0f4c-444a-8cf1-84fc7c758a75.png)
 
+![image](https://user-images.githubusercontent.com/117781491/203847520-c619c830-f967-4539-9646-92e5ba1d727a.png)
 
+34. Encuentre R1, R2 y R3 en la figura 5-82.
 
+![image](https://user-images.githubusercontent.com/117781491/203847569-147ceb87-3f9f-4539-87a9-e4ed7f2e04f4.png)
 
+![image](https://user-images.githubusercontent.com/117781491/203847621-27946930-a252-4903-827a-091ebad53379.png)
 
+36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 
+![image](https://user-images.githubusercontent.com/117781491/203847683-1d26c6e8-2273-48bf-955f-8dd5c9e059a1.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203847870-0a5a8a4d-aa7d-48ff-a03f-b357681327ce.png)
+
+SECCIÓN 5–7 Divisores de voltaje
+
+38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![image](https://user-images.githubusercontent.com/117781491/203847943-da942084-c4c6-4658-a506-a5e63dbd9db1.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203847965-cc89247b-470a-4fae-b9e5-66abe9322860.png)
+
+40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+
+![image](https://user-images.githubusercontent.com/117781491/203848019-939c47c9-331d-4392-a784-5981bf435d9f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203848038-0eed6352-48ec-4f8d-8ec2-41ab777eb05a.png)
+
+42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+![image](https://user-images.githubusercontent.com/117781491/203848239-49476e88-cce0-4be2-8f61-8a90b9a08c8f.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203848270-fcc42b3a-3aa7-413a-bfdc-62108a11a552.png)
+
+SECCIÓN 5–8 Potencia en circuitos en serie
+
+46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/117781491/203848402-f6dbdaf9-d78b-4daf-93c3-d61e9671f2b4.png)
+
+48. Los siguientes resistores de 1⁄4W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+![image](https://user-images.githubusercontent.com/117781491/203848491-0381fa20-9ef1-4435-a2ce-81337e16a00b.png)
+
+50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:
+(a) I 
+
+(b) VT
+
+(c) El valor de cada resistor
+
+![image](https://user-images.githubusercontent.com/117781491/203848707-d6b01719-505e-46e3-bfab-6fbb82fc88c3.png)
+
+SECCIÓN 5–9 Mediciones de voltaje
+
+52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+
+![image](https://user-images.githubusercontent.com/117781491/203848768-73339ada-8b39-48d0-aa52-73942e40d8e7.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203849035-27f64f9e-6639-41e0-8566-c14d92ad4972.png)
+
+SECCIÓN 5–10 Localización de fallas
+
+54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2
+
+¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+![image](https://user-images.githubusercontent.com/117781491/203849187-3e16b687-127d-4d24-b6b3-8533b8b58354.png)
+
+56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+![image](https://user-images.githubusercontent.com/117781491/203849429-82865ed0-b273-4d7a-b576-518a1a3a490a.png)
+
+*58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
+
+![image](https://user-images.githubusercontent.com/117781491/203849503-2a871a43-4d35-46a0-812c-c21b9b28f864.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203849646-4fc93994-f812-48c7-8cbf-25ea1991fc1a.png)
+
+*60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
+
+![image](https://user-images.githubusercontent.com/117781491/203849743-86eb9031-b7ca-423c-b317-d02d2db52b87.png)
+
+![image](https://user-images.githubusercontent.com/117781491/203849875-6e399784-2ef2-439d-8714-ba132a1923f5.png)
 
 
 
